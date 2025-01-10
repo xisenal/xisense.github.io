@@ -1,1 +1,3 @@
-# xisenal.github.io
+# xisense.github.io
+ver1
+这个项目在最近被我重新启动了，我希望通过一段较短的时间将这个个人主页建设成为介绍自我和与大佬交流的平台。
